@@ -5,6 +5,9 @@
 
 <div id="badges" align="center">
     <a href="MiLink" target="_blank">
-        <img src="https://img.shields.io/twitch/status/jmgamer1199?color=blue&logo=twitch&style=for-the-badge" alt="Twitch Badge" />
+        <img src="https://img.shields.io/twitch/status/jmgamer1199?logo=twitch&style=for-the-badge" alt="Twitch Badge" />
+    </a>
+    <a href="MiLink" target="_blank">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UC1iMboXYN9ED1x0eAmQoGIw?style=for-the-badge" alt="Twitch Badge" />
     </a>
 </div>
