@@ -21,3 +21,9 @@
 - I'm learning html, css and python
 
 - Website [https://jmgamer1199.github.io/]
+
+---
+
+### My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmgamer1199&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
