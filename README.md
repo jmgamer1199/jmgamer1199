@@ -12,8 +12,6 @@
     </a>
 </div>
 
----
-
 ### About Me:
 
 - Currently I only speak Spanish, although I would like to learn English.
