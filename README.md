@@ -27,5 +27,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jmgamer1199&theme=vue-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![jmgamer1199's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jmgamer1199)](https://github.com/jmgamer1199/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmgamer1199&layout=default&theme=dark)](https://github.com/jmgamer1199/github-readme-stats)
