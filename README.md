@@ -16,7 +16,7 @@
 
 - Currently I only speak Spanish, although I would like to learn English.
 
-- I'm learning html, css and python
+- I'm learning Python
 
 - Website [https://jmgamer1199.github.io/]
 
