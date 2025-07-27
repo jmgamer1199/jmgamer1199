@@ -18,7 +18,7 @@
 
 - I'm learning Python
 
-- Website [https://jmgamer1199.github.io/]
+- Website [[https://jmgamer1199.github.io/](https://jmgamer.vercel.app/)]
 
 ---
 
